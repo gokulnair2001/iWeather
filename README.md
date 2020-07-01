@@ -24,7 +24,16 @@ weather.
 * Open the WTFD.workspace file. 💾
 * Change the bundle identifier. ⚙️
 * Press Ctrl + R to run the app. 📲
-* Do star this repo and/or contribute if you like it.🙂
+* Do star this repo and/or contribute if you like it.🙂 
+
+# How To Use 🛑 
+* As soon as the app launches you will get a Bulletin Board which explains you about the app. 
+* After reading it close the board.🏳️
+* Then you will get an option of search bar, Type the continent/country/city/District/Area and then tap the search button you are ready with the data.🛣
+* Then you also have an option of getting your current place weather forecast using the location button on the top left.📳 
+* If you type a wrong place then you will get an action alert too. 📳
+* You also have an option of Map, by tapping you get to know your current Location on map. 🗺 
+* See how simple it is ☺️
 
 # Libraries Used In Project 📒 
 
@@ -36,10 +45,8 @@ weather.
 
 # Snapshots of App 📸
 
-<img width="250" alt="Screenshot 2020-07-01 at 11 46 21 AM" src="https://user-images.githubusercontent.com/56252259/86209859-14b0bb00-bb91-11ea-86d7-7108fccaab9b.png"><img width="250" alt="Screenshot 2020-07-01 at 11 46 46 AM" src="https://user-images.githubusercontent.com/56252259/86210615-8a695680-bb92-11ea-98a9-bd912d15883e.png"><img width="250" alt="Screenshot 2020-07-01 at 11 46 54 AM" src="https://user-images.githubusercontent.com/56252259/86210628-8e957400-bb92-11ea-9165-774f69ebc617.png"><img width="250" alt="Screenshot 2020-07-01 at 11 47 11 AM" src="https://user-images.githubusercontent.com/56252259/86210632-905f3780-bb92-11ea-97a3-ce6ac325cb0b.png">
-<img width="250" alt="Screenshot 2020-07-01 at 11 47 26 AM" src="https://user-images.githubusercontent.com/56252259/86210640-92c19180-bb92-11ea-848c-7ee59cd65b8e.png">
-<img width="250" alt="Screenshot 2020-07-01 at 11 47 34 AM" src="https://user-images.githubusercontent.com/56252259/86210643-935a2800-bb92-11ea-930b-ca8d4b150c41.png">
-<img width="250" alt="Screenshot 2020-07-01 at 11 50 17 AM" src="https://user-images.githubusercontent.com/56252259/86210645-93f2be80-bb92-11ea-97b0-5e0e260a83bb.png">
+<img width="250" alt="Screenshot 2020-07-01 at 11 46 21 AM" src="https://user-images.githubusercontent.com/56252259/86209859-14b0bb00-bb91-11ea-86d7-7108fccaab9b.png"><img width="250" alt="Screenshot 2020-07-01 at 11 46 46 AM" src="https://user-images.githubusercontent.com/56252259/86210615-8a695680-bb92-11ea-98a9-bd912d15883e.png"><img width="250" alt="Screenshot 2020-07-01 at 11 46 54 AM" src="https://user-images.githubusercontent.com/56252259/86210628-8e957400-bb92-11ea-9165-774f69ebc617.png"><img width="250" alt="Screenshot 2020-07-01 at 11 47 11 AM" src="https://user-images.githubusercontent.com/56252259/86210632-905f3780-bb92-11ea-97a3-ce6ac325cb0b.png"><img width="250" alt="Screenshot 2020-07-01 at 11 47 26 AM" src="https://user-images.githubusercontent.com/56252259/86210640-92c19180-bb92-11ea-848c-7ee59cd65b8e.png"><img width="250" alt="Screenshot 2020-07-01 at 11 47 34 AM" src="https://user-images.githubusercontent.com/56252259/86210643-935a2800-bb92-11ea-930b-ca8d4b150c41.png"><img width="250" alt="Screenshot 2020-07-01 at 11 50 17 AM" src="https://user-images.githubusercontent.com/56252259/86210645-93f2be80-bb92-11ea-97b0-5e0e260a83bb.png"><img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM" src="https://user-images.githubusercontent.com/56252259/86212193-357b0f80-bb95-11ea-8564-586ba3a9ad4f.png">
+
 
 
 # License ⚖️  
