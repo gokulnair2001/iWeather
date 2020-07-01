@@ -21,7 +21,7 @@ weather.
 * Clone or download the app from this repository. 👩‍💻
 * Open project file in terminal. 💻
 * Run pod intall to install all dependencies. 📥
-* Open the WTFD.workspace file. 💾
+* Open the iWeather.workspace file. 💾
 * Change the bundle identifier. ⚙️
 * Press Ctrl + R to run the app. 📲
 * Do star this repo and/or contribute if you like it.🙂 
