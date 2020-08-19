@@ -13,8 +13,7 @@ Even there is a map view which helps to get your location
 
 # Introduction ⚒  
 iWeather is an app which helps you to find weather forcast of a place. When it comes to weather forecast there are no good apps which helps you to find the 
-weather on single tap,even you can get your current location weather on single click.The app consists of various image assets which changes the background of app as per
-weather.
+weather on single tap,even you can get your current location weather on single click.The app consists of various image assets which changes the background of app as per weather.
 
 # Steps to run 📲
 
